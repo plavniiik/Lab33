@@ -3,5 +3,8 @@ public class Main {
 
         System.out.println("Даша");
         System.out.println("Изменения на галвной ветке");
+        System.out.println("Наташа");
+        System.out.println("Ира");
+
     }
 }
